@@ -23,6 +23,8 @@ The Adventure Maze Game is a **text-based adventure game** where players explore
    ```
 
 ## Files
+### 0. inventory.py inventory2.py move.py move2.py
+   - The Basic game. Use to teach the game logic. Not very complex. 
 ### 1. `MazeGame final.py`
    - The main game script that handles movement, inventory, crafting, enemies, and dark rooms.
 ### 2. `game_data final.json`
