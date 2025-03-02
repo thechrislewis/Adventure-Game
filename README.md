@@ -13,8 +13,8 @@ The Adventure Maze Game is a **text-based adventure game** where players explore
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/thechrislewis/adventure-maze-game.git
-   cd adventure-maze-game
+   git clone https://github.com/thechrislewis/Adventure-Game.git
+   cd Adventure-Game
    ```
 2. **Ensure Python 3 is installed.**
 3. **Run the game:**
