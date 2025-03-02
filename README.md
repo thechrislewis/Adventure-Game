@@ -22,7 +22,7 @@ It is structured to provide an incrementally complex game tutorial.
 2. **Ensure Python 3 is installed.**
 3. **Run the game:**
    ```bash
-   python "MazeGame final.py"
+   python "MazeGame step x.py"
    ```
 
 ## Files
