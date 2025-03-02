@@ -5,6 +5,11 @@ The Adventure Maze Game is a **text-based adventure game** where players explore
 The purpose of this game is to teach 7 to 11 yr olds coding a game in python. 
 It is structured to provide an incrementally complex game tutorial. 
 
+You will learn all about:
+   - lists. Adding and dropping items from the inventory
+   - dictionaries. Storing and retrieving information about the rooms
+   - processing user input. Normalising text to a signle standard format. e.g. UPPERCASE, lowercase, Titlecase
+
 ## Features
 - **Exploration**: Move through different rooms using `Go North`, `Go South`, etc.
 - **Dark Rooms**: Some rooms are too dark to see without a `Lantern`.
@@ -27,7 +32,7 @@ It is structured to provide an incrementally complex game tutorial.
 
 ## Files
 ### 1. inventory.py inventory2.py move.py move2.py
-   - The Basic game. Use to teach the game logic. Not very complex. 
+   - The Basic game. Use to teach the game logic. Not very complex. Start with these exercises.
 ### 2. `MazeGame step 6.py`
    - The main game script that handles movement, inventory, crafting, enemies, and dark rooms.
 ### 3. `game_data final.json`
