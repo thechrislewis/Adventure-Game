@@ -26,16 +26,14 @@ It is structured to provide an incrementally complex game tutorial.
    ```
 
 ## Files
-### 0. inventory.py inventory2.py move.py move2.py
+### 1. inventory.py inventory2.py move.py move2.py
    - The Basic game. Use to teach the game logic. Not very complex. 
-### 1. `MazeGame final.py`
+### 2. `MazeGame step 6.py`
    - The main game script that handles movement, inventory, crafting, enemies, and dark rooms.
-### 2. `game_data final.json`
+### 3. `game_data final.json`
    - Stores all the rooms, descriptions, items, and paths.
-### 3. `MazeGame step 1.py` - `MazeGame step 5.py`
+### 4. `MazeGame step 1.py` - `MazeGame step 5.py`
    - Different development stages of the game.
-### 4. `MazeGame big.py`
-   - A larger version of the game with extended features.
 ### 5. `README.md`
    - Instructions for installation, gameplay, and contribution.
 
