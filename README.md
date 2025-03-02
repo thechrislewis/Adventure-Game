@@ -2,6 +2,9 @@
 
 The Adventure Maze Game is a **text-based adventure game** where players explore a mysterious world filled with **dark rooms, magical artifacts, enemies, and hidden secrets**. Players navigate using **cardinal directions**, collect and craft items, and defeat enemies to progress.
 
+The purpose of this game is to teach 7 to 11 yr olds coding a game in python. 
+It is structured to provide an incrementally complex game tutorial. 
+
 ## Features
 - **Exploration**: Move through different rooms using `Go North`, `Go South`, etc.
 - **Dark Rooms**: Some rooms are too dark to see without a `Lantern`.
