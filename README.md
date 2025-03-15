@@ -8,7 +8,7 @@ It is structured to provide an incrementally complex game tutorial.
 You will learn all about:
    - lists. Adding and dropping items from the inventory
    - dictionaries. Storing and retrieving information about the rooms
-   - processing user input. Normalising text to a signle standard format. e.g. UPPERCASE, lowercase, Titlecase
+   - processing user input. Normalising text to a single standard format. e.g. UPPERCASE, lowercase, Titlecase
 
 ## Features
 - **Exploration**: Move through different rooms using `Go North`, `Go South`, etc.
